@@ -1,0 +1,6 @@
+framework module Thunder {
+  umbrella header "Thunder-umbrella.h"
+
+  export *
+  module * { export * }
+}
